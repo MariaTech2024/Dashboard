@@ -1,9 +1,9 @@
 import React from "react";
 import Header from "../components/layout/Header.jsx";
 import StatCard from "../components/layout/StatCard.jsx";
-import SalesOverviewChart from "../components/overview/SalesOverviewChart";
-import CategoryDistributionChart from "../components/overview/CategoryDistributionChart";
-import SalesChannelChart from "../components/overview/SalesChannelChart";
+import SalesOverviewChart from "../components/overview/SalesOverviewChart.jsx";
+import CategoryDistributionChart from "../components/overview/CategoryDistributionChart.jsx";
+import SalesChannelChart from "../components/overview/SalesChannelChart.jsx";
 import { BarChart2, ShoppingBag, Users, Zap } from "lucide-react";
 import { motion } from "framer-motion";
 
